@@ -1565,11 +1565,13 @@ _Libraries for building network clients and servers._
 </details>
 
 <details id="orm">
-<summary><strong>ORM</strong> <kbd>13 projects</kbd></summary>
+<summary><strong>ORM</strong> <kbd>14 projects</kbd></summary>
 
 _APIs that handle the persistence of objects._
 
 > **[Apache Cayenne](https://github.com/apache/cayenne)** <kbd>★ 345</kbd> 🟢<br>Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
+
+> **[APIJSON](https://github.com/APIJSON/APIJSON)** <kbd>★ 18.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-Time no-code, powerful and secure ORM providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs.
 
 > **[Doma](https://github.com/domaframework/doma)** <kbd>★ 508</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 
